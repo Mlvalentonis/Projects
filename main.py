@@ -46,8 +46,7 @@ if age >= 18:
 
       else:
         print("")
-        print(
-                "The barkeep thinks better of his question and moves along to the next patron.")
+        print("The barkeep thinks better of his question and moves along to the next patron.")
 
         print("")
     else:
