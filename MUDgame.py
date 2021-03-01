@@ -20,8 +20,7 @@ if age >= 60:
 print("")
 if age >= 18:
     print(
-        "At last, your time on this plane has reached it's ending! Prepare yourself."
-    )
+        "At last, your time on this plane has reached it's ending! Prepare yourself.")
 
     print("")
 
